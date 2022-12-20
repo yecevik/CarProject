@@ -6,8 +6,7 @@ public class Main {
         System.out.println("launch the car");
         XLR.color="red";
         XLR.door="5";
-        XLR.engine=5000;
-        XLR.model="Chevy";
+        System.out.println("incomplete");
         
     }
 }
